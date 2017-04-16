@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DcamViewTool::Renderer.copyright('Diana Camacho', 'All Rights Reserved')
+```
 
 ## Development
 
